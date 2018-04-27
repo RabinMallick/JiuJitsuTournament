@@ -1,0 +1,50 @@
+Pan-Ams: Adult/Exec/Master Gi	MEN: White (16-29 yrs)	Light (155 lbs)	Daniel Veizaga	Virginia	Ground Zero Fighting Systems	03/28/2018 10:50 a.m.	03/28/2018 01:10 p.m.
+Pan-Ams: Adult/Exec/Master Gi	MEN: White (16-29 yrs)	Light (155 lbs)	Hunter Dauterman	Ohio	Next Level MMA	02/14/2018 10:03 a.m.	02/14/2018 02:38 p.m.
+Pan-Ams: Adult/Exec/Master Gi	MEN: White (16-29 yrs)	Middle (185 lbs)	Kevin Martin	Maryland	Ground Control	03/20/2018 12:50 p.m.	 
+Pan-Ams: Adult/Exec/Master Gi	MEN: White (30-39 yrs)	Light (155 lbs)	Victor Once	New York	5150	02/03/2018 03:06 p.m.	 
+Pan-Ams: Adult/Exec/Master Gi	MEN: White (30-39 yrs)	Light Heavy (205 lbs)	Robert Goldinger	Maryland	Conquest BJJ	03/07/2018 01:44 p.m.	 
+Pan-Ams: Adult/Exec/Master Gi	MEN: White (30-39 yrs)	Heavy (206+ lbs)	Benjamin Lind	Connecticut	Evolution BJJ	02/25/2018 10:36 p.m.	02/26/2018 06:11 a.m.
+Pan-Ams: Adult/Exec/Master Gi	MEN: White (30-39 yrs)	Heavy (206+ lbs)	Jonathon McCann	Ohio	Next Level Martial Arts	03/05/2018 10:37 p.m.	03/06/2018 12:43 p.m.
+Pan-Ams: Adult/Exec/Master Gi	MEN: White (40+ yrs)	Middle (185 lbs)	Paul Tanimae	New Jersey	Vacanti Jiu Jitsu	03/27/2018 11:11 p.m.	03/28/2018 08:50 a.m.
+Pan-Ams: Adult/Exec/Master Gi	MEN: Blue (16-29 yrs)	Welter (170 lbs)	Abu Khawaja	New Jersey	Bill Stevens BJJ	02/23/2018 01:58 p.m.	02/23/2018 07:37 p.m.
+Pan-Ams: Adult/Exec/Master Gi	MEN: Blue (16-29 yrs)	Heavy (206+ lbs)	Malvin Beltre	New York	Renzo Gracie Middletown Queens	02/05/2018 05:48 p.m.	02/06/2018 07:44 a.m.
+Pan-Ams: Adult/Exec/Master Gi	MEN: Blue (30-39 yrs)	Light Heavy (205 lbs)	Emmanuel Torres	Washington	Pedro sauer	02/02/2018 05:11 p.m.	 
+Pan-Ams: Adult/Exec/Master Gi	MEN: Blue (30-39 yrs)	Heavy (206+ lbs)	Dennis Kelley	Maryland	Ground Control	02/14/2018 10:10 a.m.	 
+Pan-Ams: Adult/Exec/Master Gi	MEN: Blue (40+ yrs)	Middle (185 lbs)	Ronny Bernstiel	Pennsylvania	Renzo Gracie Philly	03/28/2018 02:09 p.m.	 
+Pan-Ams: Adult/Exec/Master Gi	MEN: Purple (18-29 yrs)	Feather (145 lbs)	Joey Gambardella	New Jersey	Renzo Gracie Northern Valley	02/06/2018 01:21 p.m.	02/06/2018 01:21 p.m.
+Pan-Ams: Adult/Exec/Master Gi	MEN: Purple (18-29 yrs)	Welter (170 lbs)	Stephan Gristina	New York	Renzo Gracie Middletown Queens	02/06/2018 06:30 a.m.	02/06/2018 07:41 a.m.
+Pan-Ams: Adult/Exec/Master Gi	MEN: Purple (30+ yrs)	Light (155 lbs)	Robert Wiegand	Pennsylvania	TacTeam/BCBJJ	03/13/2018 09:34 a.m.	03/13/2018 02:01 p.m.
+Pan-Ams: Adult/Exec/Master Gi	MEN: Purple (30+ yrs)	Middle (185 lbs)	matthew obrien	New York	Soca Brazilian ju jitsu	03/12/2018 11:48 a.m.	03/12/2018 11:48 a.m.
+Pan-Ams: Adult/Exec/Master Gi	FEMALE: Blue (16+ yrs)	Straw (115 lbs)	Trinity Pun	New York	Renzo gracie mma academy	03/23/2018 12:55 a.m.	 
+Pan-Ams: Adult/Exec/Master Gi	FEMALE: Blue (16+ yrs)	Fly (125 lbs)	Alicia Lopez	Pennsylvania	Precision Jiu-Jitsu	03/26/2018 01:40 p.m.	03/26/2018 02:12 p.m.
+Pan-Ams: Adult/Exec/Master NoGi	MEN: White (16-29 yrs)	Light (155 lbs)	Daniel Veizaga	Virginia	Ground Zero Fighting Systems	03/28/2018 01:12 p.m.	 
+Pan-Ams: Adult/Exec/Master NoGi	MEN: White (16-29 yrs)	Middle (185 lbs)	Kevin Martin	Maryland	Ground Control	03/20/2018 12:50 p.m.	 
+Pan-Ams: Adult/Exec/Master NoGi	MEN: White (30-39 yrs)	Light (155 lbs)	Victor Once	New York	5150	02/03/2018 03:06 p.m.	 
+Pan-Ams: Adult/Exec/Master NoGi	MEN: White (30-39 yrs)	Heavy (206+ lbs)	Benjamin Lind	Connecticut	Evolution BJJ	02/25/2018 10:36 p.m.	02/26/2018 06:11 a.m.
+Pan-Ams: Adult/Exec/Master NoGi	MEN: White (30-39 yrs)	Heavy (206+ lbs)	Jonathon McCann	Ohio	Next Level Martial Arts	03/05/2018 10:37 p.m.	03/06/2018 12:43 p.m.
+Pan-Ams: Adult/Exec/Master NoGi	MEN: Blue (16-29 yrs)	Welter (170 lbs)	Abu Khawaja	New Jersey	Bill Stevens BJJ	02/23/2018 01:58 p.m.	02/23/2018 07:37 p.m.
+Pan-Ams: Adult/Exec/Master NoGi	MEN: Blue (16-29 yrs)	Heavy (206+ lbs)	Malvin Beltre	New York	Renzo Gracie Middletown Queens	02/05/2018 05:48 p.m.	02/06/2018 07:44 a.m.
+Pan-Ams: Adult/Exec/Master NoGi	MEN: Blue (30-39 yrs)	Feather (145 lbs)	John Schaub	New Jersey	NJ United mma	02/26/2018 07:24 p.m.	02/27/2018 08:51 p.m.
+Pan-Ams: Adult/Exec/Master NoGi	MEN: Blue (30-39 yrs)	Light Heavy (205 lbs)	Emmanuel Torres	Washington	Pedro sauer	02/02/2018 05:11 p.m.	 
+Pan-Ams: Adult/Exec/Master NoGi	MEN: Blue (30-39 yrs)	Heavy (206+ lbs)	Dennis Kelley	Maryland	Ground Control	02/14/2018 10:10 a.m.	 
+Pan-Ams: Adult/Exec/Master NoGi	MEN: Purple (16-29 yrs)	Feather (145 lbs)	Joey Gambardella	New Jersey	Renzo Gracie Northern Valley	02/06/2018 01:21 p.m.	02/06/2018 01:21 p.m.
+Pan-Ams: Adult/Exec/Master NoGi	MEN: Purple (16-29 yrs)	Welter (170 lbs)	Stephan Gristina	New York	Renzo Gracie Middletown Queens	02/06/2018 06:30 a.m.	02/06/2018 07:41 a.m.
+Pan-Ams: Adult/Exec/Master NoGi	MEN: Purple (30+ yrs)	Light (155 lbs)	Robert Wiegand	Pennsylvania	TacTeam/BCBJJ	03/13/2018 09:34 a.m.	03/13/2018 02:01 p.m.
+Pan-Ams: Adult/Exec/Master NoGi	MEN: Purple (30+ yrs)	Welter (170 lbs)	Ryan Mccarthy	New Jersey	Monroe twp	01/22/2018 06:41 p.m.	 
+Pan-Ams: Adult/Exec/Master NoGi	MEN: Purple (30+ yrs)	Middle (185 lbs)	matthew obrien	New York	Soca Brazilian ju jitsu	03/12/2018 11:48 a.m.	03/12/2018 11:48 a.m.
+Pan-Ams: Adult/Exec/Master NoGi	FEMALE: Blue (16+ yrs)	Straw (115 lbs)	Trinity Pun	New York	Renzo gracie mma academy	03/23/2018 12:55 a.m.	 
+Pan-Ams: Adult/Exec/Master NoGi	FEMALE: Blue (16+ yrs)	Fly (125 lbs)	Alicia Lopez	Pennsylvania	Precision Jiu-Jitsu	03/26/2018 01:40 p.m.	03/26/2018 02:12 p.m.
+Pan-Ams: Kids/Teens Gi	Kids Advanced (4-12 yrs)	n/a	Ariah Holloway	Delaware	Team Balance 302 BJJ	03/13/2018 02:05 p.m.	 
+Pan-Ams: Kids/Teens Gi	Kids Advanced (4-12 yrs)	n/a	Charles Parker Trento	New York	Renzo Gracie Northern Valley	03/04/2018 04:48 p.m.	03/05/2018 06:09 a.m.
+Pan-Ams: Kids/Teens Gi	Kids Advanced (4-12 yrs)	n/a	Dakota Lombardi	New York	ECU Queens Academy	03/25/2018 10:14 p.m.	 
+Pan-Ams: Kids/Teens Gi	Kids Advanced (4-12 yrs)	n/a	Dominic Wlodarski	West Virginia	Armezzani Bjj	02/18/2018 08:54 a.m.	02/18/2018 03:24 p.m.
+Pan-Ams: Kids/Teens Gi	Kids Advanced (4-12 yrs)	n/a	Gaby Caro	Florida	Relson Gracie St Augustine	03/26/2018 10:32 p.m.	03/27/2018 06:17 a.m.
+Pan-Ams: Kids/Teens Gi	Kids Advanced (4-12 yrs)	n/a	Justin Guzman	New York	Codella Academy	02/23/2018 08:53 a.m.	02/23/2018 08:53 a.m.
+Pan-Ams: Kids/Teens Gi	Kids Advanced (4-12 yrs)	n/a	Kenneth Bruzzo	New York	ECU Queens Academy	03/22/2018 10:46 a.m.	 
+Pan-Ams: Kids/Teens Gi	Kids Advanced (4-12 yrs)	n/a	Matthew Velez	Pennsylvania	10th Planet	03/20/2018 09:16 p.m.	 
+Pan-Ams: Kids/Teens Gi	Kids Advanced (4-12 yrs)	n/a	Michael Gambacorta	South Carolina	Serra BJJ	02/26/2018 12:22 p.m.	02/26/2018 12:38 p.m.
+Pan-Ams: Kids/Teens Gi	Kids Advanced (4-12 yrs)	n/a	Nicholas Vargas	New York	Codella Academy	02/23/2018 08:53 a.m.	02/23/2018 08:53 a.m.
+Pan-Ams: Kids/Teens Gi	Kids Advanced (4-12 yrs)	n/a	Samuel Banks	Maryland	301 MMA	02/26/2018 12:08 p.m.	02/26/2018 12:15 p.m.
+Pan-Ams: Kids/Teens Gi	Kids Advanced (4-12 yrs)	n/a	Trinity Pun	New York	Renzo gracie mma academy	03/28/2018 10:17 a.m.	03/28/2018 10:17 a.m.
+Pan-Ams: Kids/Teens Gi	Kids Advanced (4-12 yrs)	n/a	Xavier Lombardi	New York	ECU Queens Academy	03/25/2018 10:14 p.m.	 
+Pan-Ams: Kids/Teens Gi	Kids Advanced (4-12 yrs)	n/a	Yianni Liontos	New York	ECU Queens Academy	03/29/2018 11:51 a.m.	 
