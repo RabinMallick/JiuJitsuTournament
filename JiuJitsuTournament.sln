@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2020
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JiuJitsuTournament", "JiuJitsuTournament\JiuJitsuTournament.csproj", "{F1DE81F1-2FD6-43F6-A648-9A72D1A5D64B}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup", "Setup\Setup.vdproj", "{61BF6291-496F-44C8-B638-3B303ABF91A2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1DE81F1-2FD6-43F6-A648-9A72D1A5D64B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1DE81F1-2FD6-43F6-A648-9A72D1A5D64B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1DE81F1-2FD6-43F6-A648-9A72D1A5D64B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1DE81F1-2FD6-43F6-A648-9A72D1A5D64B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61BF6291-496F-44C8-B638-3B303ABF91A2}.Debug|Any CPU.ActiveCfg = Debug
+		{61BF6291-496F-44C8-B638-3B303ABF91A2}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {66C48119-BA23-4A9A-9710-24CF883D5142}
+	EndGlobalSection
+EndGlobal

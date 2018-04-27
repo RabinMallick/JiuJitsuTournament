@@ -1,0 +1,16 @@
+C:\Users\Rabin\source\repos\JiuJitsuTournament\JiuJitsuTournament\bin\Release\JiuJitsuTournament.exe.config
+C:\Users\Rabin\source\repos\JiuJitsuTournament\JiuJitsuTournament\bin\Release\JiuJitsuTournament.exe
+C:\Users\Rabin\source\repos\JiuJitsuTournament\JiuJitsuTournament\bin\Release\JiuJitsuTournament.pdb
+C:\Users\Rabin\source\repos\JiuJitsuTournament\JiuJitsuTournament\bin\Release\itextsharp.dll
+C:\Users\Rabin\source\repos\JiuJitsuTournament\JiuJitsuTournament\bin\Release\MetroFramework.dll
+C:\Users\Rabin\source\repos\JiuJitsuTournament\JiuJitsuTournament\bin\Release\MetroFramework.Fonts.dll
+C:\Users\Rabin\source\repos\JiuJitsuTournament\JiuJitsuTournament\bin\Release\itextsharp.xml
+C:\Users\Rabin\source\repos\JiuJitsuTournament\JiuJitsuTournament\obj\Release\JiuJitsuTournament.csprojResolveAssemblyReference.cache
+C:\Users\Rabin\source\repos\JiuJitsuTournament\JiuJitsuTournament\obj\Release\JiuJitsuTournament.csproj.ResolveComReference.cache
+C:\Users\Rabin\source\repos\JiuJitsuTournament\JiuJitsuTournament\obj\Release\JiuJitsuTournament.Form1.resources
+C:\Users\Rabin\source\repos\JiuJitsuTournament\JiuJitsuTournament\obj\Release\JiuJitsuTournament.login.resources
+C:\Users\Rabin\source\repos\JiuJitsuTournament\JiuJitsuTournament\obj\Release\JiuJitsuTournament.Properties.Resources.resources
+C:\Users\Rabin\source\repos\JiuJitsuTournament\JiuJitsuTournament\obj\Release\JiuJitsuTournament.csproj.GenerateResource.Cache
+C:\Users\Rabin\source\repos\JiuJitsuTournament\JiuJitsuTournament\obj\Release\JiuJitsuTournament.csproj.CoreCompileInputs.cache
+C:\Users\Rabin\source\repos\JiuJitsuTournament\JiuJitsuTournament\obj\Release\JiuJitsuTournament.exe
+C:\Users\Rabin\source\repos\JiuJitsuTournament\JiuJitsuTournament\obj\Release\JiuJitsuTournament.pdb
